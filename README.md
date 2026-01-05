@@ -95,7 +95,7 @@ I am always open to discussing new opportunities, innovative ideas, or potential
 <b>· GitHub:</b> https://github.com/raoGroup-dev<br>
 <b>· Portfolio:</b> your-portfolio-link.com (Optional)
 
-[![Stephen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=xcode)](https://github.com/raoGroup-dev)
+[![Stephen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raoGroup-dev&theme=xcode)](https://github.com/raoGroup-dev)
 
 ---
 
